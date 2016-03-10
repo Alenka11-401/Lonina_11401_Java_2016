@@ -1,0 +1,36 @@
+body{
+	margin: 70px auto;
+}
+.line{
+	display: inline-block;
+}
+.red{
+	color: red;
+}
+.black{
+	color: black;
+}
+.yellow{
+	color: yellow;
+}
+.lime{
+	color: limegreen;
+}
+.blue{
+	color: #1E90FF;
+}
+.kurs{
+	font-style: italic;
+}
+.fat{
+	font-weight: bolder;
+}
+.s20{
+    width: 140px;
+}
+.s40{
+    width: 280px;
+}
+.s60{
+    width: 420px;
+}

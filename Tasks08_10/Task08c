@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<body>
+			<form action="baidu.com" method="Get">
+				<input type="text" name ="q"/>				
+				<input type="submit" value="Search with Baidu"/>
+			</form>
+			<form action="yahoo.com" method="Get">
+				<input type="text" name ="q"/>				
+				<input type="submit" value="Search with Yahoo"/>
+			</form>
+			<form action="bing.com" method="Get">
+				<input type="text" name ="q"/>				
+				<input type="submit" value="Search with Bing"/>
+			</form>
+			<form action="aol.com" method="Get">
+				<input type="text" name ="q"/>				
+				<input type="submit" value="Search with Aol"/>
+			</form>
+		</body>		
+	</head>
+</html>
